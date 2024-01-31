@@ -228,7 +228,7 @@ layout: center
 
 # Nutzwert API
 
-<img src="img/NWB_API.png">
+<img src="img/nwb.png">
 
 ---
 layout: section
